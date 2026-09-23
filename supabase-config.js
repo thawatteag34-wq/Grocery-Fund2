@@ -4,7 +4,7 @@
 //   - Project URL      -> ใส่ใน SUPABASE_URL
 //   - anon public key  -> ใส่ใน SUPABASE_ANON_KEY
 // ==========================================================
-const SUPABASE_URL = "https://hypybpciukumgdgffivd.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_XtquuLShayBqh-DQ3ePWSg_cxJlyLHo";
+const SUPABASE_URL = "https://xkyixbnussdhjuwjhwfu.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_IYeteh8iPFvOoN4kzlF9YQ_ICxcMRhp";
 
 const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
